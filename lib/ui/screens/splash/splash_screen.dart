@@ -37,6 +37,7 @@ class _SplashScreen extends State<SplashScreen>{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      
       body: Column(
         mainAxisAlignment: MainAxisAlignment.end,
         mainAxisSize: MainAxisSize.max,
